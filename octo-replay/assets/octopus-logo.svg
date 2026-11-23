@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Fusion Robotics ahtapot maskotu">
+  <rect width="64" height="64" rx="14" fill="#08123E"/>
+  <rect x="1" y="1" width="62" height="62" rx="13" fill="none" stroke="#C8E6FF" stroke-opacity=".25" stroke-width="2"/>
+  <path d="M14 31C14 17.8 22 9 32 9s18 8.8 18 22v3H14z" fill="#264EFF"/>
+  <path d="M19 22c2-5.5 6.5-9 13-9" fill="none" stroke="#C8E6FF" stroke-opacity=".55" stroke-width="2" stroke-linecap="round"/>
+  <g fill="none" stroke="#C8E6FF" stroke-width="3.2" stroke-linecap="round">
+    <path d="M17 34C16 42 12 44 10 50"/>
+    <path d="M21.3 34C21 43 18 47 17 55"/>
+    <path d="M25.6 34C25.6 43 24 49 23 56"/>
+    <path d="M29.9 34C30 42 29.5 48 29 55"/>
+    <path d="M34.1 34C34 42 34.5 48 35 55"/>
+    <path d="M38.4 34C38.4 43 40 49 41 56"/>
+    <path d="M42.7 34C43 43 46 47 47 55"/>
+    <path d="M47 34C48 42 52 44 54 50"/>
+  </g>
+  <circle cx="25.5" cy="27" r="3.6" fill="#F8FAFF"/>
+  <circle cx="38.5" cy="27" r="3.6" fill="#F8FAFF"/>
+  <circle cx="26.2" cy="27.4" r="1.7" fill="#060A1A"/>
+  <circle cx="37.8" cy="27.4" r="1.7" fill="#060A1A"/>
+</svg>
