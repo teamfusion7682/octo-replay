@@ -1,0 +1,19 @@
+# Gizli / yerel dosyalar
+api/config.local.php
+cache/*
+!cache/.htaccess
+dev/*.sqlite
+*.sqlite
+# Analiz / eğitim çıktıları (büyük dosyalar)
+dataset/
+runs/
+videos/
+*.mp4
+*.pt
+*.onnx
+# Python / editör
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+.DS_Store

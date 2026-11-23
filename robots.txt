@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /cache/
+Disallow: /dev/
+Disallow: /tools/
+
+Sitemap: https://KULLANICI.github.io/octo-replay/sitemap.xml
